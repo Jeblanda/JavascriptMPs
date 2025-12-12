@@ -1,3 +1,5 @@
+/* MADE BY JOHN BENEDICT A. LANDA */ 
+
 function replaceSpace() {
     let str1 = document.getElementById("replaceTxtInput").value;
     let newStr1 = str1.replaceAll(' ', '');
